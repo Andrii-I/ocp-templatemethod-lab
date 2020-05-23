@@ -1,4 +1,4 @@
-package lab.assignment.afterrefactoring;
+package lab.assignment.afterrerefactoring;
 
 public abstract class CoffeeMaker {
 

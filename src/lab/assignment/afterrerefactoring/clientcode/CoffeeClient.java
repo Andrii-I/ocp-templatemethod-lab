@@ -1,8 +1,8 @@
-package lab.assignment.afterrefactoring.clientcode;
+package lab.assignment.afterrerefactoring.clientcode;
 
-import lab.assignment.afterrefactoring.CoffeeMaker;
-import lab.assignment.afterrefactoring.MochaCoffee;
-import lab.assignment.afterrefactoring.CapuccinoCoffee;
+import lab.assignment.afterrerefactoring.CoffeeMaker;
+import lab.assignment.afterrerefactoring.MochaCoffee;
+import lab.assignment.afterrerefactoring.CapuccinoCoffee;
 
 
 

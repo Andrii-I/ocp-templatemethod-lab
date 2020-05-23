@@ -1,6 +1,6 @@
 package lab.assignment.afterrerefactoring;
 
-public abstract class MochaCoffee extends CoffeeMaker {
+public class MochaCoffee extends CoffeeMaker {
     @Override
     protected void addIngredients() {
         System.out.println("Adding cocoa powder");

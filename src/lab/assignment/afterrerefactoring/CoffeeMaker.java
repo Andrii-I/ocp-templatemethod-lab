@@ -1,6 +1,6 @@
 package lab.assignment.afterrerefactoring;
 
-public abstract class CoffeeMaker {
+public class CoffeeMaker {
 
     public final void prepareCoffee(){
         boilWater();
